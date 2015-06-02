@@ -1,5 +1,6 @@
 var React = require('react');
 var Router = require('react-router');
+'use strict'
 var { Route } = Router;
 
 var App = require('./components/App');

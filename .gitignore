@@ -7,8 +7,10 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
+.ftppass
 npm-debug.log
 node_modules/
 .sass-cache/
 .nvmrc
 app/dist/
+dist/
