@@ -14,4 +14,4 @@ node_modules/
 .nvmrc
 app/dist/
 dist/
-tmp/
+.tmp/
